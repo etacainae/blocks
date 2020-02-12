@@ -88,7 +88,8 @@ a {
 }
 .wrap__item .image {
   z-index: -1;
-  max-width: calc(100% - 60px);
+  width: calc(100% - 60px);
+  max-height: 50%;
   position: absolute;
   left: 50%;
   top: 80%;
